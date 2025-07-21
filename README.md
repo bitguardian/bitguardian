@@ -1,4 +1,4 @@
-<h1 align="center">Bruno Moura 🧠</h1>
+<h1 align="center">Bruno Moura</h1>
 <p align="center">
 Desenvolvedor com ênfase em <strong>inteligência artificial local</strong>, <strong>automações inteligentes</strong> e <strong>ciberinteligência</strong>.<br>
 21 anos · Estudante de Ciência da Computação · Explorador de IA prática e segurança computacional
@@ -43,13 +43,6 @@ Tenho grande interesse por **cibersegurança**, **ciberinteligência** e aplica�
   <img src="https://img.shields.io/badge/FAISS-Agrupamento%20Sem%C3%A2ntico-blue" alt="FAISS">
   <img src="https://img.shields.io/badge/SentenceTransformers-Embeddings-success" alt="ST">
 </p>
-
----
-
-### 📬 Entre em contato
-
-- Email: [analisedigital@pm.me](mailto:analisedigital@pm.me)  
-- LinkedIn: [linkedin.com/in/bruno-moura24](https://linkedin.com/in/bruno-moura24)
 
 ---
 
