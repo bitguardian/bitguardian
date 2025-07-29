@@ -4,11 +4,13 @@ Desenvolvedor com ênfase em <strong>inteligência artificial local</strong>, <s
 21 anos · Estudante de Ciência da Computação · Explorador de IA prática e segurança computacional
 </p>
 
+---
+
 <p align="center">
-  <a href="https://github.com/bitguardian">
+  <a href="https://github.com/bitguardian" target="_blank">
     <img src="https://img.shields.io/badge/IA-Local-blue" alt="IA Local" />
   </a>
-  <a href="https://linkedin.com/in/bruno-moura24">
+  <a href="https://linkedin.com/in/bruno-moura24" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-bruno--moura24-blue?logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="mailto:analisedigital@pm.me">
@@ -18,10 +20,24 @@ Desenvolvedor com ênfase em <strong>inteligência artificial local</strong>, <s
 
 ---
 
+<p align="center">
+  <b>Desenvolvedor focado em Inteligência Artificial, automações inteligentes e ciberinteligência.</b><br>
+</p>
+
+---
+
+### 🚀 Projetos em Destaque
+
+- <a href="https://github.com/bitguardian/rabbit-hole-crawler" target="_blank">🐇 Rabbit Hole Crawler</a>: Crawler para coleta, classificação e agrupamento de títulos de vídeos de canais do YouTube.
+- <a href="https://github.com/bitguardian/hand-gesture-ai" target="_blank">🤚 Hand Gesture AI</a>: Reconhecimento de gestos de mão com IA local e visão computacional.
+- <a href="https://github.com/bitguardian/ia-resumo-texto-local" target="_blank">📝 IA Resumo Texto Local</a>: Geração de resumos de texto com modelos de linguagem offline.
+
+---
+
 ### 🧠 Sobre mim
 
-Sou desenvolvedor de software com foco em soluções que aliam **inteligência artificial local**, **processamento semântico** e **automação estratégica**.  
-Tenho grande interesse por **cibersegurança**, **ciberinteligência** e aplicações práticas de IA em ambientes offline e autônomos.
+Sou desenvolvedor de software com foco em soluções que aliam *inteligência artificial local, **processamento semântico* e *automação estratégica*.  
+Tenho grande interesse por *cibersegurança, **ciberinteligência* e aplicações práticas de IA em ambientes offline e autônomos.
 
 ---
 
@@ -30,7 +46,6 @@ Tenho grande interesse por **cibersegurança**, **ciberinteligência** e aplica�
 - Modelos de linguagem locais (LLMs via Ollama)
 - Engenharia de embeddings e RAG offline
 - Automação inteligente aplicada a análise de dados
-- Monitoramento defensivo e privacidade digital
 - Extração e organização de conhecimento a partir de grandes volumes de informação
 
 ---
